@@ -2,7 +2,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 
 
-# Training
+# Trainin
 messages = [
     "win a free iphone now",
     "meeting scheduled at 10AM",
