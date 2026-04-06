@@ -8,7 +8,7 @@ messages = [
     "project discussion tomorrow"
 ]
 
-# Labels: 1 = Spam, 0 = Not Sp
+# Labels: 1 = Spam, 0 = Not S
 labels = [1, 0, 1, 0]
 
 # Convert text to feature vectors
